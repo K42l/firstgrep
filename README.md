@@ -8,7 +8,7 @@ This just go through a text file and check if the provided word is in that line;
 <br/><br/>
 Update:<br/>
 Fixed the progressbar, kindof.<br/>
-Also added the option to write the output to a file or wirite it directly to the console.<br/>
+Also added the option to write the output to a file or wirite it directly to the console.
 <br/><br/>
 I'm sure that it's not optimal at all, but i think it's some progress.
 <br/><br/>
