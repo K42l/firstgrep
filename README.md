@@ -1,4 +1,4 @@
-# firstgrep
+# My first rust code
  Simple rust grep
 
 This is my first time trying rust and I found a really nice [tutorial](https://rust-cli.github.io/book/index.html) on how to create a CLI in rust.
