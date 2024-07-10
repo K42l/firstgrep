@@ -1,5 +1,4 @@
-# My first rust code
- Simple rust grep
+# Simple rust grep
 
 It's kind of a basic grep. It searches all the lines of a file for the provided string path.<br/>
 This CLI takes as argument a string, a file path and optionally a output path.<br/>
